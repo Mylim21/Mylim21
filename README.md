@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 My name is Ming Yao Alexander Lim!
 - 🔭 I’m currently working on improving my C++ and HTML skills
 - 🌱 I’m currently learning Rust and some frontend development
@@ -9,4 +8,4 @@ My name is Ming Yao Alexander Lim!
 - 📫 How to reach me: You can email my personal email at limmingyao21@gmail.com
 - 😄 Pronouns: he/him/hers
 - ⚡ Fun fact: I suck at C++
--->
+
